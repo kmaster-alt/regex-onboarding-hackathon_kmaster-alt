@@ -1,0 +1,89 @@
+{
+  "security_flags": {
+    "script_tag": 1,
+    "javascript_uri": 1,
+    "sql_injection": 1,
+    "path_traversal": 3,
+    "template_injection": 1
+  },
+  "note": "Suspicious content is counted, never reproduced, and excluded from results.",
+  "extracted": {
+    "emails": [
+      {
+        "masked": "Br***@Business-Partners.io",
+        "tier": "general"
+      },
+      {
+        "masked": "ja******@company.co.uk",
+        "tier": "general"
+      },
+      {
+        "masked": "ke**********************@gmail.com",
+        "tier": "general"
+      },
+      {
+        "masked": "ke************@alueducation.com",
+        "tier": "alu_official"
+      },
+      {
+        "masked": "ke************@alumni.alueducation.com",
+        "tier": "alu_alumni"
+      },
+      {
+        "masked": "ke************@si.alueducation.com",
+        "tier": "alu_si"
+      }
+    ],
+    "credit_cards": [
+      "**** **** **** 0004",
+      "**** **** **** 0005",
+      "**** **** **** 1111"
+    ],
+    "credit_cards_rejected_invalid": 1,
+    "phones": [
+      "(078) 234-5678",
+      "+1 (415) 555-0134",
+      "+250 788 123 456",
+      "+250-72-000-1122",
+      "0788234567"
+    ],
+    "urls": [
+      "http://evil.test/steal?c=",
+      "https://portal.alueducation.com/invoices?id=4471",
+      "https://promo.example.com/2026/launch?ref=email"
+    ],
+    "times": [
+      "09:05:00",
+      "09:15:00",
+      "09:42",
+      "10:03:12",
+      "11:20",
+      "12:47",
+      "13:05",
+      "14:02:45",
+      "14:30",
+      "5:30 PM",
+      "9:05 AM"
+    ],
+    "html_tags": [
+      "</b>",
+      "</div>",
+      "<b>",
+      "<div class=\"banner\">"
+    ],
+    "hashtags": [
+      "#ALUAlumni",
+      "#ALU_Hackathon",
+      "#Refund2026",
+      "#Support",
+      "#urgent"
+    ],
+    "currency": [
+      "$1,250.00",
+      "RWF 50,000",
+      "USD 3,400.50",
+      "\u00a32,000",
+      "\u20ac99.99"
+    ]
+  }
+}

