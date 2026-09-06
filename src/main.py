@@ -135,7 +135,7 @@ def main():
 
     os.makedirs("output", exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(report, f, indent=2)
+        json.dump(report, f, indent=2, ensure_ascii=False)
 
     print("=== Extraction Summary ===")
     for key, value in extracted.items():
@@ -147,4 +147,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
